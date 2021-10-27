@@ -18,7 +18,7 @@ Através dessa tecnologia pode-se gerar uma grande economia e sustentabilidade, 
 
 ATEZA, Vanderlei Rabelo. Alguns aspectos sobre a automação residencial - Domótica. 2002. 106 f. Dissertação (Mestrado) - Curso de Ciência da Computação, Universidade Federal de Santa Catarina, Florianópolis, 2002. Disponível em: https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y. Acesso em: 27 out. 2021.
 
-MATTEDE, Henrique. Domótica – O que é e quais as vantagens!. Mundo da Elétrica. Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/. Acesso em: 27 outubro 2021.
+MATTEDE, Henrique. Domótica – O que é e quais as vantagens!. Mundo da Elétrica. Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/. Acesso em: 27 out. 2021.
 
-Domótica. Mundo Educação. Disponível em: https://mundoeducacao.uol.com.br/informatica/domotica.htm. Acesso em: 27 outubro 2021.
+Domótica. Mundo Educação. Disponível em: https://mundoeducacao.uol.com.br/informatica/domotica.htm. Acesso em: 27 out. 2021.
 
