@@ -1,4 +1,4 @@
-# (título) -- Projeto Integrador II
+# Domótica -- Projeto Integrador II
 
 Acesso rápido:
   - [Concepção](./concepcao.md)
@@ -6,7 +6,7 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
   - [Operação](./operacao.md)
 
-## Domótica
+## Introdução
 
 Domótica é uma tecnologia que é responsável pela gestão de recursos de uma habitação, tem como objetivo fazer a automação do ambiente residencial, como por exemplo usar um sensor de presença para acender uma luz assim que alguém entrar no cômodo, apagar todas as luzes da casa em um determinado horário onde todos estão dormindo, controlar entrada e saída da casa com câmeras em um circuito fechado, ou até controlar a temperatura do ambiente baseado na necessidade do residente. 
 
