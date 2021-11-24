@@ -16,7 +16,7 @@ para o display;
 
 * Sensor de gás e de fumaça, quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
-* Módulo Sensor de Umidade/Nível Água Chuva, controla a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 50% e o sensor de umidade abaixo de 75%, emitirá um aviso no display LCD para regar as plantas;
+* Módulo Sensor de Umidade/Nível Água Chuva, controla a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60% e o sensor de umidade abaixo de 70%, emitirá um aviso no display LCD para regar as plantas;
 
 * Sensor de presença, para ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
