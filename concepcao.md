@@ -7,20 +7,20 @@ Acesso rápido:
   - [Operação](./operacao.md)
 
 
-Este projeto tem como objetivo desenvolver um sistema de domótica completo, promovendo maior conforto e segurança para os residendes, visando o baixo custo.
+Este projeto pretende desenvolver um sistema de domótica completo, promovendo maior conforto e segurança para os residentes, visando o baixo custo.
 
 #### Seguindo os objetivos definidos no projeto serão utilizados os seguintes componentes respectivamente com suas finalidades:
 
-* Sensor de Temperatura, para controle da temperatuda nos cômodos, quando a temperatura subir além de 25° o ar condicionado/ventilador será ligado e um aviso irá ser enviado
+* Sensor de Temperatura, para controle da temperatura nos cômodos, quando a temperatura subir além de 25° o ar condicionado/ventilador será ligado e um aviso irá ser enviado
 para o display;
 
-* Sensor de gás e de fumaça, quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possivel acidente;
+* Sensor de gás e de fumaça, quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
-* Módulo Sensor de Umidade/Nível Água Chuva, controla a rega das plantas no jardim, quando o sensor de nivel da água estiver acima de 50% e o sensor de umidade abaixo de 75%, emitirá um aviso no display LCD para regar as plantas;
+* Módulo Sensor de Umidade/Nível Água Chuva, controla a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 50% e o sensor de umidade abaixo de 75%, emitirá um aviso no display LCD para regar as plantas;
 
-* Sensor de presença, para ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residendes no cômodo.
+* Sensor de presença, para ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
-* Sensor ultrasônico e o micro servo, quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
+* Sensor ultrassônico e o micro servo, quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
 
 * Matriz de led e um módulo relé, irão atuar como luz de emergência, quando a luz acabar o relé irá acionar a matriz de led;
 
