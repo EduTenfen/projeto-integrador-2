@@ -20,7 +20,7 @@ para o display;
 
 * Sensor de presença, para ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residendes no cômodo.
 
-* Sensor ultrasônico e o micro servo, quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará botão que o botão do controle seja acionado para abrir o portão;
+* Sensor ultrasônico e o micro servo, quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
 
 * Matriz de led e um módulo relé, irão atuar como luz de emergência, quando a luz acabar o relé irá acionar a matriz de led;
 
