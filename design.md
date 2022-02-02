@@ -37,8 +37,7 @@ Quantidade  | Tecnologias | Função
 ## Planta baixa:
 
 
-![Planta Baixa PI2](https://user-images.githubusercontent.com/93286152/145211884-53caff48-1e53-44b6-b4bc-7d03ccf73326.png)
-
+![Planta Baixa PI2](https://user-images.githubusercontent.com/93286152/152165926-d94206d5-7c95-40d2-aad2-73dcb3c7b561.png)
 
 
 
