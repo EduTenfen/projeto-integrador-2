@@ -11,20 +11,20 @@ Este projeto pretende desenvolver um sistema de domótica completo, promovendo m
 
 #### Seguindo os objetivos definidos no projeto serão utilizados os seguintes componentes respectivamente com suas finalidades:
 
-* Sensor de Temperatura, para controle da temperatura nos cômodos, quando a temperatura subir além de 25° o ar condicionado/ventilador será ligado e um aviso irá ser enviado
+* Controle da temperatura nos cômodos, quando a temperatura subir além de 25° o ar condicionado/ventilador será ligado e um aviso irá ser enviado
 para o display;
 
-* Sensor de gás e de fumaça, quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
+* Quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
-* Módulo Sensor de Umidade/Nível Água Chuva, controla a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60% e o sensor de umidade abaixo de 70%, emitirá um aviso no display LCD para regar as plantas;
+* Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60% e o sensor de umidade abaixo de 70%, emitirá um aviso no display LCD para regar as plantas;
 
-* Sensor de presença, para ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
+* Ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
-* Sensor ultrassônico e o micro servo, quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
+* Quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
 
-* Matriz de led e um módulo relé, irão atuar como luz de emergência, quando a luz acabar o relé irá acionar a matriz de led;
+* Luz de emergência, quando a luz acabar o relé irá acionar a matriz de led;
 
-* Display LCD, mostrando as informações mais relevantes do sistema.
+* Mostrar as informações mais relevantes do sistema.
 
 
 
@@ -35,17 +35,17 @@ Quantidade  | Tecnologias
 :---------:   | ------
 1           | Placa Arduino MEGA 2560 R3
 1           | Sensor de Umidade e Temperatura DHT11
-1           | Sensor de presença e movimento PIR
+1           | Cooler 120mm
 1           | Sensor de gás MQ-2 inflamável e fumaça
-1           | Micro Servo SG92R 9g TowerPro
-1           | Módulo Sensor de Umidade/Nível Água Chuva
-2           | Módulo Relé 5 V e um Canal
-1           | Sensor ultrasônico HC-SR04
-1           | Módulo Matriz de LED 8×8 com MAX7219
+1           | Cooler 120mm
 1           | Buzzer passivo
+1           | Módulo Sensor de Umidade/Nível Água Chuva
+1           |	Sensor de presença e movimento PIR
+1           | Sensor ultrasônico HC-SR04
+1           | Micro Servo SG92R 9g TowerPro
+1           | Módulo Matriz de LED 8×8 com MAX7219
+2           | Módulo Relé 5 V e um Canal
 1           | Display LCD 16×2 I2C Backlight Azul
-2           | Cooler 
-
 
 
 ## Referências
