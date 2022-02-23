@@ -14,13 +14,13 @@ Este projeto pretende desenvolver um sistema de domótica completo, promovendo m
 * Controle da temperatura nos cômodos, quando a temperatura subir além de 25° o ar condicionado/ventilador será ligado e um aviso irá ser enviado
 para o display;
 
-* Quando o sensor detectar um valor acima do normal acionará um exaustor, caso o exaustor não funcione e o valor continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
+* Quando o sensor detectar um valor de gás acima do normal acionará um exaustor, caso o exaustor não funcione e o valor de gás continuar a subir, um buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
 * Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60% e o sensor de umidade abaixo de 70%, emitirá um aviso no display LCD para regar as plantas;
 
 * Ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
-* Quando o sensor detectar a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
+* Quando o sensor detectar presença a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
 
 * Luz de emergência, quando a luz acabar o relé irá acionar a matriz de led;
 
