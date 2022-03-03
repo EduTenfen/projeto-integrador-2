@@ -31,7 +31,7 @@ Quantidade  | Tecnologias | Função
 ## Diagrama do circuito:
 
 
-![Diagrama_Circuito_EduardoTenfen_PI2](https://user-images.githubusercontent.com/93286152/145211849-f79c209e-4d5a-463e-a2f4-6cbd0769f89a.png)
+![Maquete_eletronica](https://user-images.githubusercontent.com/93286152/156659275-8793f6de-57a7-4c79-8235-0e856854ee82.png)
 
 
 ## Planta baixa:
