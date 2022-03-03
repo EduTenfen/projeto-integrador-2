@@ -31,7 +31,9 @@ Quantidade  | Tecnologias | Função
 ## Diagrama do circuito:
 
 
-![Maquete_eletronica](https://user-images.githubusercontent.com/93286152/156659275-8793f6de-57a7-4c79-8235-0e856854ee82.png)
+![Maquete_eletronica](https://user-images.githubusercontent.com/93286152/156659631-73b15313-a02b-4b7f-b970-a617cdd6a0a6.png)
+
+
 
 
 ## Planta baixa:
