@@ -16,15 +16,15 @@ Quantidade  | Tecnologias | Função
 1           | Sensor de Umidade e Temperatura DHT11        | Junto com um relé e um cooler, controla a temperatura do cômodo
 1           | Módulo Relé 5 V                              |
 1           | Cooler 120mm                                 |
-1           | Sensor de gás MQ-2 inflamável e fumaça       | Junto com um relé, um cooler e o buzzer, controla o nível de gás e previne acidentes
+1           | Sensor de gás MQ-2 inflamável e fumaça       | Junto com um relé, um cooler, a matriz de led e o buzzer, controla o nível de gás e previne acidentes
 1           | Módulo Relé 5 V                              |
 1           | Cooler 120mm                                 |
+1           | Módulo Matriz de LED 8×8 com MAX7219         |
 1           | Buzzer passivo                               |
 1           | Módulo Sensor de Umidade/Nível Água Chuva    | Controla a umidade das plantas do jardim
 1           |	Sensor de presença e movimento PIR           | Controla a luz do cômodo
 1           | Sensor ultrasônico HC-SR04                   | Junto com o micro servo, Controla a entrada do portão
 1           | Micro Servo SG92R 9g TowerPro                |
-1           | Módulo Matriz de LED 8×8 com MAX7219         | Junto com o módulo relé, controla as luzes de emergência
 1           | Display LCD 16×2 I2C Backlight Azul          | Mostra as informações mais relevantes
 
 
