@@ -14,7 +14,7 @@ Este projeto pretende desenvolver um sistema de domótica completo, promovendo m
 * Controle da temperatura nos cômodos, quando a temperatura subir além de 23° o ventilador será ligado e um aviso irá ser enviado
 para o display;
 
-* Quando o sensor detectar um valor de gás acima de 320 acionará um exaustor, caso o exaustor não funcione e o valor de gás for maior que 320, a matriz de led irá acender e o buzzer emitirá um alarme sonoro para evitar um possível acidente;
+* Quando o sensor detectar um valor de gás acima de 320 acionará um exaustor para controlar o nivel de gás, a matriz de led irá acender e o buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
 * Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60%, emitirá um aviso no display LCD para regar as plantas;
 
