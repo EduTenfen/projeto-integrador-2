@@ -15,7 +15,7 @@ Este projeto pretende desenvolver um sistema de domótica completo, promovendo m
 
 * Quando o sensor detectar um valor de gás acima de 55% acionará um exaustor para controlar o nivel de gás, a matriz de led irá acender e o buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
-* Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60%, emitirá um aviso no display LCD para regar as plantas;
+* Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60% e o sensor de umidade abaixo de 70%, emitirá um aviso no display LCD para regar as plantas;
 
 * Ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
