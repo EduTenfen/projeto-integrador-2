@@ -9,18 +9,19 @@ Acesso rápido:
 
 Este projeto pretende desenvolver um sistema de domótica completo, promovendo maior conforto e segurança para os residentes, visando o baixo custo.
 
-#### Seguindo os objetivos definidos no projeto serão utilizados os seguintes componentes respectivamente com suas finalidades:
+#### Seguindo os objetivos definidos no projeto:
 
-* Controle da temperatura nos cômodos, quando a temperatura subir além de 23° o ventilador será ligado e um aviso irá ser enviado
-para o display;
+* Controle da temperatura nos cômodos, quando a temperatura subir além de 23° o ventilador será ligado e um aviso irá ser enviado para o display;
 
-* Quando o sensor detectar um valor de gás acima de 320 acionará um exaustor para controlar o nivel de gás, a matriz de led irá acender e o buzzer emitirá um alarme sonoro para evitar um possível acidente;
+* Quando o sensor detectar um valor de gás acima de 55% acionará um exaustor para controlar o nivel de gás, a matriz de led irá acender e o buzzer emitirá um alarme sonoro para evitar um possível acidente;
 
 * Controlar a rega das plantas no jardim, quando o sensor de nível da água estiver acima de 60%, emitirá um aviso no display LCD para regar as plantas;
 
 * Ligar as luzes do cômodo assim que o residente entrar ou desligar as luzes quando não houver residentes no cômodo.
 
-* Quando o sensor detectar presença a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita, solicitará que o botão do controle seja acionado para abrir o portão;
+* Quando o sensor detectar presença a uma distância de 3cm do portão de entrada, o display LCD irá emitir um aviso de que possui visita;
+
+* Abertura do portão com acionamento de uma tecla;
 
 * Mostrar as informações mais relevantes do sistema.
 
