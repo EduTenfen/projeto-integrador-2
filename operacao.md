@@ -9,7 +9,7 @@ Acesso rápido:
 
 ### Operação
 
-Durante as etapas anteriores foi descrito todo o processo de construção do projeto, para que fosse possível chegar a essa última etapa da abordagem CDIO, na qual o sistema implementado é utilizado para seus devidos propósitos.O modo de operação do sistema será demonstrado nessa etapa.
+Durante as etapas anteriores foi descrito todo o processo de construção do projeto, para que fosse possível chegar a essa última etapa da abordagem CDIO, na qual o sistema implementado é utilizado para seus devidos propósitos. O modo de operação do sistema será demonstrado nessa etapa.
 
 #### Abaixo, segue o link para um vídeo demonstrando a operação do sistema :
 link do video aqui
