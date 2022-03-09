@@ -15,11 +15,6 @@ Acesso rápido:
 
   Na fase de concepção foi apresentada a planta baixa da maquete a ser implementada no projeto, com base na planta baixa, a maquete foi desenvolvida utilizando isopor em sua totalidade e palitos para a fixação.
   
-#### Imagem da maquete
-
-IMAGEM AQUI
-
-  
 ### Testes dos sensores
 
 Os componentes são testados individualmente para provar que estão todos em boas condições de funcionamento e integrados conforme planejado durante a fase de concepção do projeto. 
@@ -48,7 +43,7 @@ Finalmente, os componentes foram dispostos no modelo e vários testes foram real
 * Checar o display LCD e verificar se as informações estão corretas.
 * Abrir e fechar o portão. 
 
-### Imagem da maquete pronta
+### A imagem abaixo mostra a já maquete concluida
 
 IMAGEM AQUI
 
