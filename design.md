@@ -32,7 +32,7 @@ Quantidade  | Tecnologias | Função
 ## Diagrama do circuito:
 
 
-![Maquete_eletronica](https://user-images.githubusercontent.com/93286152/156659631-73b15313-a02b-4b7f-b970-a617cdd6a0a6.png)
+![Maquete_eletronica_finalizada](https://user-images.githubusercontent.com/93286152/157365418-b835454f-c645-4aef-a2a3-4343b606640c.png)
 
 
 
@@ -40,7 +40,8 @@ Quantidade  | Tecnologias | Função
 ## Planta baixa:
 
 
-![Planta Baixa PI2](https://user-images.githubusercontent.com/93286152/152165926-d94206d5-7c95-40d2-aad2-73dcb3c7b561.png)
+![Planta Baixa PI2 - Finalizada](https://user-images.githubusercontent.com/93286152/157365432-18649279-3dcd-4822-a422-f6d7c3518738.png)
+
 
 
 
