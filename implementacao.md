@@ -34,6 +34,8 @@ tarefa_HCSR04 (tarefa de campainha): Essa tarefa faz a leitura da distancia a ca
 
 controle_portao (tarefa de abertura do portão): Essa tarefa é feita de forma manual, o portão abre/fecha assim que for digitado a tecla "p" no monitor serial, inicialmente o portão está fechado;
 
+* [Código completo](./Codigo_PI2.ino)
+
 Finalmente, os componentes foram dispostos no modelo e vários testes foram realizados para validar o projeto. Aqui estão alguns aplicativos testados:
 
 * Ativar os sistemas de cada sensor, individualmente e em conjunto.
