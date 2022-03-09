@@ -7,11 +7,12 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
 
 
+### Operação
 
+Durante as etapas anteriores foi descrito todo o processo de construção do projeto, para que fosse possível chegar a essa última etapa da abordagem CDIO, na qual o sistema implementado é utilizado para seus devidos propósitos.O modo de operação do sistema será demonstrado nessa etapa.
 
+#### Abaixo, segue o link para um vídeo demonstrando a operação do sistema :
+link do video aqui
 
-## Referências
-
-Colocar aqui as referências. _Sempre em formato ABNT_.
-
-ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
+#### Possíveis evoluções
+Como foi feito de forma simples, o projeto não inclui módulo Wi-Fi que poderia melhorar a cominicação com usuário, e assim melhorando a eficiencia do projeto.
