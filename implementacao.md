@@ -47,7 +47,9 @@ Finalmente, os componentes foram dispostos no modelo e vários testes foram real
 
 ### A imagem abaixo mostra a já maquete concluida
 
-IMAGEM AQUI
+![Maquete concluida 1](https://user-images.githubusercontent.com/93286152/157669306-913e8f64-dfb6-42ef-9e8c-a4b13f86c8bd.jpeg)
+![Maquete concluida 2](https://user-images.githubusercontent.com/93286152/157669313-6d33da85-d430-46c4-9e88-73d1a95640eb.jpeg)
+
 
 A partir dessas ações, pode-se concluir que todo o sistema está funcionando corretamente, conforme planejado nas fases anteriores de concepção e design.
 
